@@ -1,0 +1,2 @@
+[console_scripts]
+pipeline-mlops-train = pipeline_mlops.train:main
