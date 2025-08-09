@@ -14,4 +14,4 @@ dependencies = ["pandas>=1.5", "numpy>=1.23", "scikit-learn>=1.2", "joblib>=1.3"
 packages = ["pipeline_mlops"]
 
 [project.scripts]
-pipeline-mlops-train = "pipeline_mlops.train:main"
+pipeline-mlops-train = "pipeline_mlops.pipeline:main"
